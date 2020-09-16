@@ -13,3 +13,4 @@ HDD :- TOSHIBA DT01ACA100 (Standard disk drive ) (windows installed)
 SSD - Kingston A400 (Mac's drive)
 
 MOTHERBOARD :- Gigabyte H110m - H
+For More detail on what's working and what's not refer to my [REDDIT POST](https://www.reddit.com/r/hackintosh_ja/comments/io4nuk/open_core_060_macos_catalina_10155_final_take_on/?utm_source=share&utm_medium=web2x&context=3) 
