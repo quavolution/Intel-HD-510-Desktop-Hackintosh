@@ -1,6 +1,6 @@
 # Intel-HD-510-Desktop-Hackintosh
 OpenCore 0.6.0 Intel HD 510 Desktop Hackintosh 
-
+macOs Catalina 10.15.5
 PC Specs :-
 CPU :- 6th Gen Intel core i5 - 6402P CPU @2.80GHZ
 
